@@ -1,9 +1,5 @@
 # Dizplai-Coding-Challenge-Vue
 
-I am off on holiday on the 24th, and had work this week, so please bare in mind I didn't have a whole lot of time to work on this (also never used Vue, luckily they have excellent documentation)!
-
-Have used node express server for backend
-
 ## Issues I would have liked to fix/things I missed
 
 Given more time would have spent much longer on CSS
