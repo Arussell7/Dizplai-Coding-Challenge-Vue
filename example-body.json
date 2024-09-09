@@ -1,0 +1,15 @@
+{
+    "event": "NFL 2024",
+    "question": "Who will win the NFL?",
+    "pollItems": [
+        { 
+            "id": "1",
+            "name": "Dolphins"
+        },
+        {
+            "id":"2",
+            "name": "SeaHawks"
+        }
+    ]
+}
+
