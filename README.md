@@ -2,11 +2,11 @@
 
 ## Issues I would have liked to fix/things I missed
 
-Given more time would have spent much longer on CSS
-Did not have time to integrate database, this comes with some data integrity issues with IDs etc. (data stored in temp-data.js)
-Needed to implement proxy for back-end calls instead of explicit calls and cors module on backend
-Would have liked to move backend logic to java
-Wanted to implement a call to add poll API into the UI, but didn't have time, api can be called through postman etc. have provided an example json body in example-body.json (you will see the new poll in view results section)
+Updating CSS
+Need to integrate database, this comes with some data integrity issues with IDs etc. (data stored in temp-data.js)
+Need to implement proxy for back-end calls instead of explicit calls and cors module on backend
+Would like to move backend logic to java
+Implement a call to add poll API into the UI, api can be called through postman etc. have provided an example json body in example-body.json (you will see the new poll in view results section)
 Intended to implement ability to change active poll
 
 ## Back End Setup (Ensure in back-end directory)
